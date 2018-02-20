@@ -28,7 +28,7 @@ https://qiita.com/totto357/items/31552e899b737b529244#align_assignments
 vagrant環境で開発する場合、config/environments/development.rbに以下を追加
 BetterErrors::Middleware.allow_ip! "192.168.33.1"
 
-##rails-erd
+## rails-erd
 ERDを生成する
 `bundle exec erd`
 
