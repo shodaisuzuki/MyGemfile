@@ -20,9 +20,6 @@ rubocop
 ## rufo
 小さいrubocop
 `rufo {filepath}`
-Rails.root/.rufoのルールに従いフォーマットを整理する
-### 参考
-https://qiita.com/totto357/items/31552e899b737b529244#align_assignments
 ## better_errors,binding_of_caller
 エラー画面でデバックできる様にする
 vagrant環境で開発する場合、config/environments/development.rbに以下を追加
